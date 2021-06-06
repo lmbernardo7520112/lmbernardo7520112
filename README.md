@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ---
 ## About Me - ⚡
 I have a degree in Physics from the Federal University of Espírito Santo (1999) and a Masters in Physics from the Federal University of Espírito Santo (2006). PhD in Materials Science and Engineering from the Federal University of Paraíba (2018). Alongside my teaching activities, I have dedicated myself with great enthusiasm to the world of web development.
+
+This README is a work in progress*
