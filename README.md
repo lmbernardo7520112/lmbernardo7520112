@@ -1,4 +1,6 @@
 ## Hi there! <img src="https://user-images.githubusercontent.com/56771959/120940889-ef5bf380-c6f5-11eb-9f8f-78871b0145a1.gif"  width="40" height="40" />
+<h1 align="center">Hi 👋, I'm Leonardo Maximino Bernardo</h1>
+<h3 align="center">A passionate web developer student from João Pessoa-Paraíba, Brazil.</h3>
 
 
 <!--
