@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ebook-turnjs-project](https://github.com/lmbernardo7520112/ebook-turnjs-project.git)
 
-- 🌱 I’m currently learning **Curso Universidade Estadual de Campinas Introdução ao Desenvolvimento de Aplicativos Android; @onebitcode; @digitalinnovationone**
+- 🌱 I’m currently learning **Pós-graduação Lato Sensu em Desenvolvimento Web - IFSULDEMINAS; @coursera**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lmbernardo7520112?tab=repositories](https://github.com/lmbernardo7520112?tab=repositories)
 
