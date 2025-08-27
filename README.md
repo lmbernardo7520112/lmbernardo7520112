@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lmbernardo75201" target="blank"><img src="https://img.shields.io/twitter/follow/lmbernardo75201?logo=twitter&style=for-the-badge" alt="lmbernardo75201" /></a> </p>
 
-- 🔭 I’m currently working on [desafio_bairesdev_embedded_vision_project_LMB]([https://github.com/lmbernardo7520112/ebook-turnjs-project.git](https://github.com/lmbernardo7520112/desafio_bairesdev_embedded_vision_project_LMB.git)
+- 🔭 I’m currently working on [desafio_bairesdev_embedded_vision_project_LMB](https://github.com/lmbernardo7520112/ebook-turnjs-project.git)
 
 - 🌱 I’m currently learning **Pós-graduação Lato Sensu em Desenvolvimento Web - IFSULDEMINAS; @coursera**
 
